@@ -14,7 +14,7 @@ Here we use K-means clustering to transform a 24-bit color image to a 4-bit colo
 ## Deconstructing and reconstructing faces
 
 <p align="center">
-<img src="docs/images/faces.png" alt="digits" width="600" height="200">
+<img src="docs/images/faces.png" alt="digits" width="600" height="400">
 </p>
 
 [`code/ex7_pca.m`](code/ex7_pca.m) computes the first 100 principle components of a set of faces and reconstructs the faces from this lower dimensional representation. 
